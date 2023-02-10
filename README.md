@@ -13,17 +13,12 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 
 <div align="center">
-
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
-
 <i>Follow me:</i><br>
-
+[![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/shehablotfallah)
 <a href="https://www.linkedin.com/in/shehablotfallah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shehablotfallah" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/shehablotfallah" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:shehabw126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="mail"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
 </div>
 
 
