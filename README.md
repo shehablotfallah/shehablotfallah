@@ -18,7 +18,7 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 <br><br>
 
-📫 How to reach me **shehabw126@gmail.com**
+📫 How to reach me   **<Shehab-dev@outlook.com>**  || **<shehabw126@gmail.com>**
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
