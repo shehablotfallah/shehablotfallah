@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 </br></br>
-<a href="https://github.com/shehablotfallah"><img src="https://img.shields.io/github/followers/shehablotfallah?style=social"></a>
+<a href="https://github.com/shehablotfallah"><img src="https://img.shields.io/github/followers/shehablotfallah?style=social"></
+a>
 </div>
 <h2>Hi , I'm Shehab Lotfallah, there fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -52,4 +53,4 @@ Happy Coding! 😊
 </div>
 
 
-⭐ From [shehablofallah](https://github.com/shehablotfallah)
+⭐ From [shehablotfallah](https://github.com/shehablotfallah)
