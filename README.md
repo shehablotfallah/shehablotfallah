@@ -50,7 +50,7 @@ Happy Coding! 😊
 <a href="https://www.facebook.com/shehablotfallah" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shehabw126@gmail.com)](mailto:shehabw126@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201091466926&text=Olá!)](https://api.whatsapp.com/send?phone=201091466926&text=Hi!🖖) 
-https://www.mediafire.com/file/rokijoyinnoq681/Python&Django+@WinDroidSY+Telegram.rar/file
+
 -->
 </div>
 
