@@ -1,98 +1,99 @@
 <div align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" alt="welcome-gif" />
-  
-  <br><br>
 
-  <a href="https://github.com/shehablotfallah">
-    <img src="https://img.shields.io/github/followers/shehablotfallah?style=social" alt="GitHub followers" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:414868&height=200&section=header&text=Shehab%20Lotfallah&fontSize=42&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20.NET%20|%20Django%20|%20NodeJS&descAlignY=58&descSize=18&descColor=c0caf5" width="100%" />
 
-  <h2>Hi 👋, I'm Shehab Lotfallah — Fellow &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;</h2>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=1%2B+year+in+production+%7C+10%2B+systems+shipped;Serving+10%2C000%2B+active+users;ASP.NET+Core+%C2%B7+Django+%C2%B7+NodeJS+%C2%B7+Clean+Architecture" alt="Typing SVG" />
 
-  <p>👨‍💻 I’m currently diving deeper into <strong>Backend & Software Development</strong></p>
-  <p>🚀 Feel free to clone any project or open issues if something can be improved!</p>
-  <p>📫 Reach me at: <strong>Shehab-dev@outlook.com</strong> or <strong>shehabw126@gmail.com</strong></p>
+<br/><br/>
 
-  <br>
+<img src="https://komarev.com/ghpvc/?username=shehablotfallah&color=7AA2F7&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/shehablotfallah?label=Followers&style=flat-square&color=7AA2F7&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/shehablotfallah?affiliations=OWNER&style=flat-square&color=7AA2F7&label=Stars&logo=github&logoColor=white" />
 
-  <img src="https://komarev.com/ghpvc/?username=shehablotfallah&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+<br/><br/>
 
-  <br><br>
+<a href="https://flowcv.com/resume/ba52c7drk6"><img src="https://img.shields.io/badge/📄_View_CV-1a1b27?style=for-the-badge&color=7AA2F7" /></a>
+<a href="https://shehablotfallah.runasp.net"><img src="https://img.shields.io/badge/🌐_Portfolio-1a1b27?style=for-the-badge&color=7AA2F7" /></a>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shehablotfallah" alt="trophies" />
-  </a>
-
-  <br><br>
-
-  <a href="https://twitter.com/shehablotfallah">
-    <img src="https://img.shields.io/twitter/follow/shehablotfallah?logo=twitter&style=for-the-badge" alt="twitter-follow" />
-  </a>
 </div>
 
----
+<br/>
 
-<h3 align="center">🌐 Connect with me</h3>
+## 🧭 About
 
-<p align="center">
-  <a href="https://twitter.com/shehablotfallah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" />
-  </a>
-  <a href="https://linkedin.com/in/shehablotfallah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />
-  </a>
-  <a href="https://fb.com/shehablotfallah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" />
-  </a>
-  <a href="https://instagram.com/shehablotfallah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" />
-  </a>
-</p>
+```csharp
+public class ShehabLotfallah : BackendEngineer
+{
+    public string Role       => "Backend Engineer | ASP.NET Core & Django";
+    public string Location   => "Cairo, Egypt";
+    public string Experience => "1+ year production | 10+ systems | 10,000+ active users";
+    public bool   OpenToWork => true;
 
----
+    public string[] FocusAreas => new[]
+    {
+        "Real-time backend systems (SignalR, Celery, Hangfire)",
+        "Clean Architecture & SOLID-driven API design",
+        "Expanding into Next.js / Node.js via NTI training"
+    };
+}
+```
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<br/>
 
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" /></a>
-</p>
+## ⚙️ Tech Stack
 
----
+<div align="center">
 
-<h3 align="center">☕ Support Me</h3>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,django,py,cpp,js,ts,html,css,bootstrap,jquery,angular,react,nextjs,nodejs,express,mongodb,postgres,redis,git,github,githubactions,docker,azure,aws,firebase,postman,tailwind,vscode,visualstudio&theme=dark&perline=10" />
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shehablotfallah" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
+</div>
 
----
+<sub>**Also working with (no official icon):** SQL Server · JWT · SignalR · Hangfire · AutoMapper · Celery · LINQ · EF Core · IIS · Serilog · Swagger · ASP.NET MVC / Web API · Clean Architecture · SOLID · Repository Pattern · Design Patterns · Dependency Injection · OOP · Data Structures · Algorithms</sub>
 
-<h3 align="center">📊 Stats</h3>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shehablotfallah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shehablotfallah&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehablotfallah" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Analytics
 
-<br>
+<div align="center">
 
-<p align="center">⭐ From <a href="https://github.com/shehablotfallah">shehablotfallah</a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=shehablotfallah&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehablotfallah&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shehablotfallah&hide_border=true&theme=tokyonight&border_radius=10" width="60%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shehablotfallah&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shehablotfallah&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="80%" />
+
+</div>
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+<a href="https://facebook.com/shehablotfallah" target="_blank"><img src="https://cdn.simpleicons.org/facebook/0165E1" height="48"/></a>
+<a href="https://instagram.com/shehablotfallah" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="48"/></a>
+<a href="https://linkedin.com/in/shehablotfallah" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48"/></a>
+<a href="https://github.com/shehablotfallah" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/></a>
+<a href="mailto:Shehab-dev@outlook.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48"/></a>
+<a href="https://shehablotfallah.runasp.net" target="_blank"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48"/></a>
+
+<br/><br/>
+
+<a href="https://flowcv.com/resume/ba52c7drk6" target="_blank"><img src="https://img.shields.io/badge/📄_View_CV-1a1b27?style=for-the-badge&color=7AA2F7" /></a>
+<a href="https://shehablotfallah.runasp.net" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-1a1b27?style=for-the-badge&color=7AA2F7" /></a>
+
+<br/><br/>
+
+<sub><i>Open to Backend Engineer / .NET Developer roles — Egypt & Remote</i></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer" width="100%" />
