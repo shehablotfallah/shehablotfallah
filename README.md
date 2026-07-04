@@ -12,7 +12,6 @@
 <a href="https://shehablotfallah.runasp.net"><img src="https://img.shields.io/badge/🌐_Portfolio-1a1b27?style=for-the-badge&color=7AA2F7" /></a>
 </div>
 <br/>
-
 ## 🧭 About
 
 ```csharp
