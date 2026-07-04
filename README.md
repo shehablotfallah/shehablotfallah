@@ -49,16 +49,13 @@ public class ShehabLotfallah : BackendEngineer
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=shehablotfallah&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehablotfallah&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" width="48%" /> -->
-<img src="https://raw.githubusercontent.com/shehablotfallah/shehablotfallah/profile-summary-cards-output/profile-github_dark/3-stats.svg" width="45%"/>
-<img src="https://raw.githubusercontent.com/shehablotfallah/shehablotfallah/profile-summary-cards-output/profile-github_dark/2-most-commit-language.svg" width="45%"/>
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehablotfallah&hide_border=true&theme=tokyonight&border_radius=10" width="60%" />
 
-<br/><br/>
+<br/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehablotfallah&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehablotfallah&theme=github_dark" width="45%"/>
+<br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehablotfallah&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 <br/><br/>
 <img src="https://raw.githubusercontent.com/shehablotfallah/shehablotfallah/output/snake-dark.svg" width="90%"/>
