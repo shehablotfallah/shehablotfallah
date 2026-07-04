@@ -56,9 +56,10 @@ public class ShehabLotfallah : BackendEngineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shehablotfallah&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehablotfallah&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" width="48%" />
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=shehablotfallah&show_icons=true&hide_border=true&theme=tokyonight&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehablotfallah&layout=compact&hide_border=true&theme=tokyonight&border_radius=10" width="48%" /> -->
+<img src="https://raw.githubusercontent.com/shehablotfallah/shehablotfallah/profile-summary-cards-output/profile-night-rainbow/3-stats.svg" width="45%"/>
+<img src="https://raw.githubusercontent.com/shehablotfallah/shehablotfallah/profile-summary-cards-output/profile-night-rainbow/2-most-commit-language.svg" width="45%"/>
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehablotfallah&hide_border=true&theme=tokyonight&border_radius=10" width="60%" />
@@ -68,8 +69,8 @@ public class ShehabLotfallah : BackendEngineer
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehablotfallah&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shehablotfallah&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="80%" />
+<img src="https://raw.githubusercontent.com/shehablotfallah/shehablotfallah/output/snake-dark.svg" width="90%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=shehablotfallah&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="80%" /> -->
 
 </div>
 
@@ -96,4 +97,4 @@ public class ShehabLotfallah : BackendEngineer
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b27&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=7aa2f7&animation=fadeIn" width="100%" />
